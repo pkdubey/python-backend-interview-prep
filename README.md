@@ -209,4 +209,4 @@ MIT License — free to use for preparation and learning.
 
 ---
 
-*Last updated: September 2026 | Version 2.0 | Maintained by [Pavan Kumar Dubey](https://github.com/pkdubey)*
+*Last updated: September 2026 | Maintained by [Pavan Kumar Dubey](https://github.com/pkdubey)*
