@@ -206,5 +206,7 @@ Agar aapko koi mistake mile ya kuch add karna ho, feel free to raise an issue or
 ## License
 
 MIT License — free to use for preparation and learning.
+
 ---
+
 *Last updated: September 2026 | Version 2.0 | Maintained by [Pavan Kumar Dubey](https://github.com/pkdubey)*
