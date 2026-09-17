@@ -1,6 +1,3 @@
-# README.md
-
-```markdown
 # Python Backend Interview Preparation
 
 ![Stars](https://img.shields.io/github/stars/pkdubey/python-backend-interview-prep)
