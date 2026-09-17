@@ -260,5 +260,3 @@ with open("file.txt") as f:
 
 [← Previous: Module 1](module-1-hr-resume-project.md) | [Back to Index](README.md) | [Next: Module 3 →](module-3-django-drf.md)
 ```
-
----
