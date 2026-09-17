@@ -1,8 +1,8 @@
 # Python Backend Interview Preparation
 
-![Stars](https://img.shields.io/github/stars/yourusername/python-backend-interview-prep)
-![Forks](https://img.shields.io/github/forks/yourusername/python-backend-interview-prep)
-![License](https://img.shields.io/github/license/yourusername/python-backend-interview-prep)
+![Stars](https://img.shields.io/github/stars/pkdubey/python-backend-interview-prep)
+![Forks](https://img.shields.io/github/forks/pkdubey/python-backend-interview-prep)
+![License](https://img.shields.io/github/license/pkdubey/python-backend-interview-prep)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 **Pavan Kumar Dubey** — 5.5+ years Python Backend Developer
