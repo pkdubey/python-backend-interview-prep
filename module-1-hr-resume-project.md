@@ -6,11 +6,11 @@
 
 **Q1. Tell me about yourself.**
 
-"Hi, I'm Pavan Dubey. I have around 5.5 years of experience in backend development. I started my career with PHP and Laravel at Investor Homez, then moved to Nippon Data Systems where I worked on Django applications, REST APIs, and government projects like NICSI. I also worked on Drupal 7 to 8 migration.
+"Hi, I'm Pavan Kumar Dubey. I've got around 5.5 years of experience in backend development. I started out with PHP and Laravel at Investor Homez, then moved to Nippon Data Systems, where I worked on Django applications, REST APIs, and government projects like NICSI. I also worked on a Drupal 7 to 8 migration there.
 
-After that, I did freelancing for a few months where I built Django applications and FinTech solutions. Then I joined theCloudTree, and later Neighborshook Pvt. Ltd., where I worked on a hyperlocal platform called Neighborshook. There I developed scalable backend services using Laravel and Django, built REST APIs, admin dashboards, and worked on an AI-powered content moderation system using Hugging Face Transformers — mainly DistilBERT for toxicity detection and text classification.
+After that, I did freelancing for a few months where I built Django applications and FinTech solutions. Then I joined theCloudTree, and later Neighborshook Pvt. Ltd., where I worked on a hyperlocal platform called Neighborshook. There I built scalable backend services using Laravel and Django, worked on REST APIs, admin dashboards, and also an AI-powered content moderation system using Hugging Face Transformers — mainly DistilBERT for toxicity detection and text classification.
 
-Currently I'm working as a freelance Software Engineer, building Python automation tools using Selenium, BeautifulSoup, Pandas, OpenPyXL, and Tkinter desktop applications packaged with PyInstaller.
+Currently, I'm working as a freelance Software Engineer, building Python automation tools using Selenium, BeautifulSoup, Pandas, OpenPyXL, and Tkinter desktop applications packaged with PyInstaller.
 
 I'm looking for a role where I can work on larger backend systems, AI integration, and take more technical ownership."
 
@@ -24,15 +24,15 @@ I'm looking for a role where I can work on larger backend systems, AI integratio
 
 "I started at Investor Homez as a PHP Developer — worked on WordPress, Laravel, and custom backend features.
 
-Then I joined Nippon Data Systems — worked on an intranet Stock Management System using Python and Django, maintained NICSI (Government of India) project, built REST APIs with Django and PHP, and migrated Drupal 7 to Drupal 8.
+Then I joined Nippon Data Systems — worked on an intranet Stock Management System using Python and Django, maintained the NICSI (Government of India) project, built REST APIs with Django and PHP, and migrated Drupal 7 to Drupal 8.
 
 After that, I did freelancing — built secure Django applications and REST APIs for FinTech clients.
 
-Then I joined theCloudTree — worked on Neighborshook platform, built backend services and REST APIs using Laravel, admin dashboards, and integrated NLP-based content analysis using Hugging Face Transformers.
+Then I joined theCloudTree — worked on the Neighborshook platform, built backend services and REST APIs using Laravel, admin dashboards, and integrated NLP-based content analysis using Hugging Face Transformers.
 
-Later the project transitioned to Neighborshook Pvt. Ltd. — there I continued backend development, built user verification, neighbourhood feeds, moderation tools, and worked on AI-powered content moderation using DistilBERT for toxicity detection.
+Later, the project transitioned to Neighborshook Pvt. Ltd. — there I continued backend development, built user verification, neighbourhood feeds, moderation tools, and worked on AI-powered content moderation using DistilBERT for toxicity detection.
 
-Currently I'm freelancing — building Python automation tools, web scrapers, Excel report generators, and Tkinter desktop apps."
+Currently, I'm freelancing — building Python automation tools, web scrapers, Excel report generators, and Tkinter desktop apps."
 
 ---
 
@@ -58,7 +58,7 @@ Currently I'm freelancing — building Python automation tools, web scrapers, Ex
 
 **Follow-up: Did you use Celery?**
 
-"We used background processing for some tasks, but in the Neighborshook project the main moderation was handled through a separate NLP service. In my automation projects I used Celery-style async patterns where needed."
+"We used background processing for some tasks, but in the Neighborshook project the main moderation was handled through a separate NLP service. In my automation projects, I used Celery-style async patterns where needed."
 
 ---
 
