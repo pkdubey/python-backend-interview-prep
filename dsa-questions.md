@@ -2,7 +2,7 @@
 
 [← Back to Index](README.md) | [← Previous: Module 6](module-6-system-design-coding.md)
 
-> **Note:** This section is specifically prepared for product-based companies like Google, Microsoft, and Amazon. Here you won't just find questions — I've also explained the **thinking process** behind each one. For every problem, first explain your approach, then write the code.
+> This section is prepared for product-based company interviews. Every problem includes the **thinking process**, not just the code. For every problem: explain your approach first, then write the code. That's what interviewers want to see.
 
 ---
 

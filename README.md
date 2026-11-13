@@ -7,7 +7,7 @@
 
 **Pavan Kumar Dubey** — 5.5+ years Python Backend Developer
 
-Real interview questions & answers based on my resume and experience.
+Real interview questions & answers based on my resume and experience. Every answer is written in human language — the way you'd actually say it in an interview, not the way a textbook would explain it.
 
 ---
 
@@ -21,7 +21,7 @@ Real interview questions & answers based on my resume and experience.
 | [Module 4](module-4-mysql-sql.md) | MySQL & SQL | Q61–Q90 |
 | [Module 5](module-5-llm-huggingface-celery-aws.md) | LLM, Hugging Face, Celery, Redis, AWS | Q81–Q100 |
 | [Module 6](module-6-system-design-coding.md) | System Design + Coding | Q101–Q130 |
-| [DSA](dsa-questions.md) | DSA Questions | Q131–Q145 |
+| [DSA](dsa-questions.md) | DSA Questions | Q1–Q95 |
 | [Practice Code](practice-code.md) | Extra Practice Problems | 20 problems |
 
 ---
@@ -34,7 +34,7 @@ Real interview questions & answers based on my resume and experience.
 - AI moderation project deep dive
 - Why Python over PHP
 - Strengths, weaknesses, production issues
-- Questions to ask interviewer
+- Questions to ask the interviewer
 
 ### Module 2: Python Core + OOPs
 - **Python Basics:** List vs Tuple, Mutable vs Immutable, Shallow vs Deep copy, *args/**kwargs, Decorators, Generators, Iterators, is vs ==, Memory management, Garbage collection, Exception handling, GIL, Threading vs Multiprocessing
@@ -109,6 +109,7 @@ Real interview questions & answers based on my resume and experience.
 - **Hashmaps & Heaps:** Top K Frequent, Median Finder, Kth Smallest in Matrix
 - **Recursion & Backtracking:** Permutations, Subsets, N-Queens, Word Search
 - **Bit Manipulation:** Power of Two, Count Set Bits, Single Number
+- **Additional Problems:** Merge Intervals, Product Except Self, Longest Substring, Container with Water, Three Sum, Trapping Rain Water, Search Rotated Array
 
 ### Practice Code
 - Fibonacci, Factorial, Prime Check
@@ -127,18 +128,18 @@ Real interview questions & answers based on my resume and experience.
 
 ## How to Use
 
-1. **Har module ko padho** — chronological order mein
-2. **Answers ko apne style mein bolo** — ratna mat, samjho
-3. **Follow-up questions bhi prepare karo** — interviewer yahi poochta hai
-4. **Practice code ko khud se likho** — copy-paste mat karo
-5. **Resume ke according hi bolo** — fake mat karo, jo kiya hai wahi bolo
-6. **Daily 2-3 problems solve karo** — DSA aur coding ke liye
-7. **Whiteboard par practice karo** — system design ke liye
-8. **Mock interviews do** — friend ya mirror ke saath
+1. **Read each module in order** — they build on each other
+2. **Say the answers out loud** — don't just read, speak them
+3. **Prepare for follow-up questions** — that's what interviewers actually ask
+4. **Write practice code yourself** — don't copy-paste
+5. **Stick to your resume** — only talk about what you actually did
+6. **Solve 2-3 DSA problems daily** — consistency beats cramming
+7. **Practice system design on a whiteboard** — draw diagrams
+8. **Do mock interviews** — with a friend or in front of a mirror
 
 ---
 
-## Final Revision (Interview Se Pehle)
+## Final Revision (Before the Interview)
 
 ### Must-Know Topics
 
@@ -155,27 +156,27 @@ Real interview questions & answers based on my resume and experience.
 
 ### Quick Tips
 
-1. **Clarify requirements** before jumping to solution
-2. **Think out loud** — interviewer wants to see your thought process
-3. **Draw diagrams** — whiteboard par architecture draw karo
+1. **Clarify requirements** before jumping to a solution
+2. **Think out loud** — the interviewer wants to see your thought process
+3. **Draw diagrams** — draw architecture on a whiteboard
 4. **Talk about trade-offs** — every decision has pros and cons
 5. **Mention scale** — "For 1 million requests, this would..."
 6. **Be honest** — "I haven't done this in production, but I would approach it like..."
 7. **Connect to your experience** — "In my moderation project, I did..."
-8. **Practice live coding** — write code on paper/whiteboard
+8. **Practice live coding** — write code on paper or a whiteboard
 
 ### Interview Day Checklist
 
-- [ ] Resume ke according sab answers ready
-- [ ] AI moderation project ka complete flow yaad
-- [ ] Django request lifecycle diagram
-- [ ] Celery + Redis architecture
-- [ ] SQL query optimization steps
+- [ ] All answers aligned with your resume
+- [ ] AI moderation project complete flow memorized
+- [ ] Django request lifecycle diagram ready
+- [ ] Celery + Redis architecture clear
+- [ ] SQL query optimization steps ready
 - [ ] Python OOPs concepts clear
-- [ ] 5-6 system design problems practice
-- [ ] DSA patterns revise
-- [ ] Questions for interviewer ready
-- [ ] Confidence — jo kiya hai wahi bolo
+- [ ] 5-6 system design problems practiced
+- [ ] DSA patterns revised
+- [ ] Questions for the interviewer ready
+- [ ] Confidence — talk about what you actually did
 
 ---
 
@@ -191,7 +192,7 @@ python-backend-interview-prep/
 ├── module-4-mysql-sql.md                      ← Q61–Q90
 ├── module-5-llm-huggingface-celery-aws.md     ← Q81–Q100
 ├── module-6-system-design-coding.md           ← Q101–Q130
-├── dsa-questions.md                           ← Q131–Q145
+├── dsa-questions.md                           ← DSA Q1–Q95
 └── practice-code.md                           ← 20 problems
 ```
 
@@ -199,7 +200,7 @@ python-backend-interview-prep/
 
 ## Contributing
 
-Agar aapko koi mistake mile ya kuch add karna ho, feel free to raise an issue or PR.
+If you find a mistake or want to add something, feel free to raise an issue or PR.
 
 ---
 
@@ -209,4 +210,4 @@ MIT License — free to use for preparation and learning.
 
 ---
 
-*Last updated: September 2026 | Maintained by [Pavan Kumar Dubey](https://github.com/pkdubey)*
+*Last updated: November 2026 | Maintained by [Pavan Kumar Dubey](https://github.com/pkdubey)*
