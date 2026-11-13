@@ -2,7 +2,7 @@
 
 [← Back to Index](README.md) | [← Previous: Module 5](module-5-llm-huggingface-celery-aws.md)
 
-> **Note:** Ye module Google, Microsoft, Amazon jaise product-based companies ke liye prepare kiya gaya hai. Yahan sirf questions nahi — **thinking process** bhi explain kiya hai. System design questions mein interviewer tumhari **approach** dekhta hai, sirf answer nahi. Har answer ko natural language mein rakha hai, jaise ek 5.5 years experienced Python backend developer interview mein bolta hai.
+> This module is prepared for product-based company interviews. In system design questions, the interviewer watches your **approach**, not just the answer. Read each answer the way a 5.5-year experienced Python backend developer would say it — structured, practical, with trade-offs.
 
 ---
 
@@ -2228,9 +2228,9 @@ I'm not in a hurry — I want to grow steadily and sustainably."
 
 1. **Structure your answer** — "First I would... Then I would... If X happens, then Y..."
 
-2. **Ask clarifying questions** — don't jump to solution. Understand requirements.
+2. **Ask clarifying questions** — don't jump to a solution. Understand requirements first.
 
-3. **Draw diagrams** — whiteboard par architecture draw karo.
+3. **Draw diagrams** — draw architecture on a whiteboard.
 
 4. **Talk about trade-offs** — every decision has pros and cons.
 
@@ -2240,15 +2240,15 @@ I'm not in a hurry — I want to grow steadily and sustainably."
 
 7. **Be honest** — "I haven't done this in production, but I would approach it like..."
 
-8. **Think out loud** — interviewer wants to see your thought process.
+8. **Think out loud** — the interviewer wants to see your thought process.
 
-9. **Practice coding** — write code on paper/whiteboard.
+9. **Practice coding** — write code on paper or a whiteboard.
 
 10. **Prepare questions** — ask about team, tech stack, challenges.
 
 ---
 
-**Practice Tip:** System design questions mein interviewer tumhari **thinking process** dekhta hai — sirf answer nahi. Bolo "First I would...", "Then I would...", "If X happens, then Y..." — structured approach dikhao. Product companies value clear thinking over perfect answers.
+**Practice Tip:** In system design questions, the interviewer watches your **thinking process** — not just the answer. Say "First I would...", "Then I would...", "If X happens, then Y..." — show a structured approach. Product companies value clear thinking over perfect answers.
 
 ---
 

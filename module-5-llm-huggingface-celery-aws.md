@@ -2,7 +2,7 @@
 
 [← Back to Index](README.md) | [← Previous: Module 4](module-4-mysql-sql.md)
 
-> **Note:** Ye module Google, Microsoft, Amazon jaise product-based companies ke liye prepare kiya gaya hai. Yahan sirf questions nahi — **thinking process** bhi explain kiya hai. Har answer ko natural language mein rakha hai, jaise ek 5.5 years experienced Python backend developer interview mein bolta hai. AI/ML questions mein honesty important hai — jo kiya hai wahi bolo, fake mat karo.
+> This module is prepared for product-based company interviews. Every answer includes the **thinking process**, not just the answer. In AI/ML questions, honesty is critical — talk about what you actually did, not what sounds impressive.
 
 ---
 
@@ -1019,7 +1019,7 @@ Hugging Face Model (on workers)
 
 ---
 
-**Practice Tip:** AI/ML questions mein interviewer depth check karega — especially "Did you train the model?" aur "How did you handle failures?" Ke answers clear rakho. Jo kiya hai wahi bolo, fake mat karo. Product companies value honesty and practical thinking over buzzwords.
+**Practice Tip:** In AI/ML questions, the interviewer will probe depth — especially "Did you train the model?" and "How did you handle failures?" Keep those answers clear. Talk about what you actually did. Product companies value honesty and practical thinking over buzzwords.
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Back to Index](README.md) | [← Previous: Module 1](module-1-hr-resume-project.md)
 
-> **Note:** Ye module Google, Microsoft, Amazon jaise product-based companies ke liye prepare kiya gaya hai. Yahan sirf questions nahi — **thinking process** bhi explain kiya hai. Har answer ko natural language mein rakha hai, jaise ek 5.5 years experienced Python developer interview mein bolta hai.
+> This module is prepared for product-based company interviews. Every answer includes the **thinking process**, not just the answer. Read each answer the way a 5.5-year experienced Python developer would say it in an interview — conversational, confident, with real examples.
 
 ---
 
@@ -1391,7 +1391,7 @@ print(p3.address.city)   # Noida (independent copy)
 
 ---
 
-**Practice Tip:** Roz 2–3 OOP concepts revise karo. Har concept ka ek real example apne project se connect karo. Google/Microsoft/Amazon mein OOPs par deep questions aate hain — especially inheritance, MRO, and design patterns.
+**Practice Tip:** Revise 2-3 OOP concepts every day. Connect each concept to a real example from your project. Product companies ask deep OOP questions — especially inheritance, MRO, and design patterns.
 
 ---
 

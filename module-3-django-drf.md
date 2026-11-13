@@ -2,7 +2,7 @@
 
 [← Back to Index](README.md) | [← Previous: Module 2](module-2-python-core.md)
 
-> **Note:** Ye module Google, Microsoft, Amazon jaise product-based companies ke liye prepare kiya gaya hai. Yahan sirf questions nahi — **thinking process** bhi explain kiya hai. Har answer ko natural language mein rakha hai, jaise ek 5.5 years experienced Python backend developer interview mein bolta hai.
+> This module is prepared for product-based company interviews. Every answer includes the **thinking process**, not just the answer. Read each answer the way a 5.5-year experienced Python backend developer would say it in an interview.
 
 ---
 
@@ -1277,7 +1277,7 @@ These generate Swagger UI, ReDoc, or OpenAPI JSON."
 
 ---
 
-1. **Draw the request lifecycle** — whiteboard par explain karo. Ye question almost guaranteed hai.
+1. **Draw the request lifecycle** — explain it on a whiteboard. This question is almost guaranteed.
 
 2. **Explain trade-offs** — every design decision has pros and cons. Django vs Flask, ORM vs raw SQL, select_related vs prefetch_related.
 
@@ -1295,7 +1295,7 @@ These generate Swagger UI, ReDoc, or OpenAPI JSON."
 
 ---
 
-**Practice Tip:** Django request lifecycle aur JWT flow ko diagram ke saath yaad karo. Interviewer ise whiteboard par explain karne ko bol sakta hai. Product companies mein Django ke deep questions aate hain — especially ORM optimization, Celery, and deployment.
+**Practice Tip:** Memorize the Django request lifecycle and JWT flow with a diagram. The interviewer may ask you to explain it on a whiteboard. Product companies ask deep Django questions — especially ORM optimization, Celery, and deployment.
 
 ---
 

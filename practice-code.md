@@ -1,8 +1,8 @@
-# Practice Code — Extra Problems (Interview Mein Common)
+# Practice Code — Extra Problems (Common in Interviews)
 
 [← Back to Index](README.md) | [← Previous: DSA](dsa-questions.md)
 
-> **Note:** Ye module Google, Microsoft, Amazon jaise product-based companies ke liye prepare kiya gaya hai. Yahan sirf code nahi — **approach** bhi explain kiya hai. Har problem mein pehle approach batao, phir code likho. Interview mein code likhna aana chahiye, sirf yaad karna nahi.
+> This section is prepared for product-based company interviews. Every problem includes the **approach**, not just the code. In an interview, explain your approach first, then write the code. Writing code from memory is not the goal — understanding the pattern is.
 
 ---
 
@@ -803,7 +803,7 @@ O(log n) time, O(log n) space.
 
 ---
 
-# PART 3: COMMON PATTERNS (INTERVIEW MEIN KAAM AATE HAIN)
+# PART 3: COMMON PATTERNS
 
 ---
 
@@ -879,7 +879,7 @@ O(log n) time, O(log n) space.
 
 ---
 
-1. **Write code on paper** — practice writing code without IDE.
+1. **Write code on paper** — practice writing code without an IDE.
 
 2. **Explain your approach** — "First I would... Then I would..."
 
@@ -897,7 +897,7 @@ O(log n) time, O(log n) space.
 
 ---
 
-**Practice Tip:** Har problem ko **khud se likho** — copy-paste mat karo. Interview mein code likhna aana chahiye, sirf yaad karna nahi. Google/Microsoft/Amazon mein coding rounds mein live code likhna hota hai — practice se hi confidence aayega.
+**Practice Tip:** Write every problem yourself — don't copy-paste. In an interview, you need to write code live. Only consistent practice builds that confidence. Google/Microsoft/Amazon coding rounds require writing code on the spot.
 
 ---
 

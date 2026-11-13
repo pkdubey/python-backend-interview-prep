@@ -2,7 +2,7 @@
 
 [← Back to Index](README.md) | [← Previous: Module 3](module-3-django-drf.md)
 
-> **Note:** Ye module Google, Microsoft, Amazon jaise product-based companies ke liye prepare kiya gaya hai. Yahan sirf questions nahi — **thinking process** bhi explain kiya hai. Har answer ko natural language mein rakha hai, jaise ek 5.5 years experienced Python backend developer interview mein bolta hai.
+> This module is prepared for product-based company interviews. Every answer includes the **thinking process**, not just the answer. Read each answer the way a 5.5-year experienced Python backend developer would say it in an interview.
 
 ---
 
@@ -1184,7 +1184,7 @@ WHERE o.created_at = (
 
 ---
 
-1. **Draw the schema** — whiteboard par tables and relationships draw karo.
+1. **Draw the schema** — draw tables and relationships on a whiteboard.
 
 2. **Explain the query plan** — use EXPLAIN to show how the query will execute.
 
@@ -1198,11 +1198,11 @@ WHERE o.created_at = (
 
 7. **Test edge cases** — NULL values, empty tables, duplicate data.
 
-8. **Practice live queries** — interviewer may ask you to write a query on the spot.
+8. **Practice live queries** — the interviewer may ask you to write a query on the spot.
 
 ---
 
-**Practice Tip:** SQL queries ko hands-on practice karo. LeetCode SQL, HackerRank SQL, aur SQLZoo use karo. Product companies mein live query likhne ko bolte hain — especially JOINs, GROUP BY, aur window functions.
+**Practice Tip:** Practice SQL queries hands-on. Use LeetCode SQL, HackerRank SQL, and SQLZoo. Product companies ask you to write live queries — especially JOINs, GROUP BY, and window functions.
 
 ---
 
